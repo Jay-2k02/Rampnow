@@ -1,0 +1,7 @@
+{
+  "/api/login/route": "app/api/login/route.js",
+  "/page": "app/page.js",
+  "/CRUD/listuser/page": "app/CRUD/listuser/page.js",
+  "/CRUD/page": "app/CRUD/page.js",
+  "/CRUD/createuser/page": "app/CRUD/createuser/page.js"
+}
